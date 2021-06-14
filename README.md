@@ -1,7 +1,7 @@
 # MechaCar_Statistical_Analysis
 
 ## Linear Regression to Predict MPG
-![](link for https://github.com/mdabbous88/MechaCar_Statistical_Analysis/blob/main/Summary_lm.png)
+![](https://github.com/mdabbous88/MechaCar_Statistical_Analysis/blob/main/Summary_lm.png)
 
 -Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 Using the Pr(>|t|), intercept, vehicle_length and ground_clearance provide are statistically unlikely to provide random amounts of variance to the linear model.
@@ -15,8 +15,8 @@ Assuming our significance level is 0.05%. The P-value generated from the picture
 Sice the R-squared is 0.7149, this means that ~72% of the variablility in the mpg is coming from the independent variables in out model. This percentage is considered high which tells that our model can predict the mpg of MechaCar prototypes effectively.
 
 ## Summary Statistics on Suspension Coils
-![](link for https://github.com/mdabbous88/MechaCar_Statistical_Analysis/blob/main/total-summary.png)
-![](link for https://github.com/mdabbous88/MechaCar_Statistical_Analysis/blob/main/Lot_summary.png)
+![](https://github.com/mdabbous88/MechaCar_Statistical_Analysis/blob/main/total-summary.png)
+![](https://github.com/mdabbous88/MechaCar_Statistical_Analysis/blob/main/Lot_summary.png)
 
 Summary
 The total summary and the lot summary pictures show that all the lots have almost same mean and media as the total summary. However,the variance and the stnadard deviation are different betweem the lots and the total summary.It is clear that lot 3 is creating the variability in the variance of the total summary. So, lot 3 must have some change in manufactring process to eliminate the source of varibility in it.
