@@ -2,7 +2,7 @@
 
 ## Overview
 
-The project herein has the following main points:
+The project herein has the following main points using R programming language:
 
 -Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes.
 
